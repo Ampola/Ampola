@@ -19,8 +19,8 @@ Bem-vindo ao meu repositório! Aqui você encontrará projetos interessantes e d
 
 Confira alguns dos meus projetos mais recentes:
 
-- **[Projeto X](link_para_projeto):** Uma aplicação incrível que faz algo especial.
-- **[Projeto Y](link_para_projeto):** Outro projeto fascinante com funcionalidades incríveis.
+- **[Projeto X](link_para_projeto):** Em Construção.
+- **[Projeto Y](link_para_projeto):** Em Construção.
 
 ## 🤝 Contribuições
 
