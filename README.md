@@ -36,4 +36,4 @@ Adoraria receber contribuições para os meus projetos! Sinta-se à vontade para
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ampola&show_icons=true&theme=dracula)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ampola&layout=compact&theme=dracula)
 
-Obrigado por visitar o meu repositório! Espero que goste do conteúdo. 😊
+Obrigado por visitar o meu repositório! Espero que goste do conteúdo. :)
