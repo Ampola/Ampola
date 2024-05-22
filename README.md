@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará projetos interessantes e d
 - **Criador de Soluções:** Focado em resolver problemas com criatividade
 - **Eterno Aprendiz:** Sempre em busca de novos conhecimentos e disposto a compartilhar
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas Que Pretendo Me Especializar
 
 - **Linguagens de Programação:** 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
