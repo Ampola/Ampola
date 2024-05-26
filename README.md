@@ -57,4 +57,4 @@ Adoraria receber contribuições para os meus projetos! Sinta-se à vontade para
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampola&layout=compact&theme=dracula&langs_count=8" alt="Linguagens mais usadas" />
 </div>
 
-Obrigado por visitar o meu repositório! Espero que goste do conteúdo. 😉
+Obrigado por visitar o meu repositório! Espero que goste do conteúdo. 😎
